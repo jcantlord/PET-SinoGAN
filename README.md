@@ -31,7 +31,7 @@ All evaluators confused a high percentage of generated images with real images.
 
 The quality of the generated images improved as the training progressed.
 
-![](figs/qve.png)
+![](figs/qvt.png)
 
 ## Fréchet Inception Score
 
