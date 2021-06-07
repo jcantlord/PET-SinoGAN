@@ -42,12 +42,15 @@ In all database-network pairs the FID score value decreased with training, which
 For each experiment, one of the generated sinograms was reconstructed by analytical methods (FBP), recovering the PET image with correct semantic representation of the anatomical region studied.
 
 **DCGAN on ACRIN-6688**
+
 ![](figs/rec1.png)
 
 **DCGAN on ONCOVISION-MAMMI**
+
 ![](figs/rec2.png)
 
 **WGAN-GP on ONCOVISION-MAMMI**
+
 ![](figs/rec3.png)
 
 ## Conclusions
